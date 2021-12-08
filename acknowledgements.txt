@@ -1,4 +1,4 @@
-# We would like to thank the following:
+# We would like to thank the following Security Researchers for their contribution:
 # [yyyy-mm-dd] Name
 
 [2021-08-11] Akash Rajendra Patil (͡° ͜ʖ ͡°) 
