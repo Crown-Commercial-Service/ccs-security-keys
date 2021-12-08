@@ -13,3 +13,5 @@ Please see [further web documentation](https://www.crowncommercial.gov.uk/about-
 1. RSA public key: **vulnerability-disclosure-public-encryption.pub**
 
 2. Vulnerability Disclosure Policy: **security.txt**
+
+3. Acknowledgements: **acknowledgements.txt**
