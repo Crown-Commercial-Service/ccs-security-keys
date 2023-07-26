@@ -1,6 +1,6 @@
 # We would like to thank the following Security Researchers for their contribution:
 # [yyyy-mm-dd] Name
 
-[2021-08-11] Akash Rajendra Patil (͡° ͜ʖ ͡°) 
-[2021-08-22] Nirav Sikotaria (◕‿◕✿)
-[2021-09-14] nakano (nakanosec) (ᵔᴥᵔ)
+[2021-08-11] Akash Rajendra Patil 🏅
+[2021-08-22] Nirav Sikotaria 🏅
+[2021-09-14] nakano (nakanosec) 🏅
