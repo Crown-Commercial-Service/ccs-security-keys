@@ -1,4 +1,4 @@
-# We would like to thank the following Security Researchers for their contribution:
+# We would like to thank the following Security Researchers for their contribution in helping CCS Digitally Secure:
 # [yyyy-mm-dd] Name
 
 [2021-08-11] Akash Rajendra Patil 🏅
